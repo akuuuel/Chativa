@@ -1,2 +1,2 @@
 # Chativa
-Moblie App Chat.
+Mobile App Chat.
