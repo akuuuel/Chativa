@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357406845896",
+    "project_id": "chativa-66edf",
+    "storage_bucket": "chativa-66edf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357406845896:android:d2b2217d3cc309367deefd",
+        "android_client_info": {
+          "package_name": "com.chativa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn7U5hTdsmZlx153iNofZ_Xnpp2Vr3qHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
